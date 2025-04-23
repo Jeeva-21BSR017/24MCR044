@@ -1,0 +1,4 @@
+Name       	  : Jeeva A
+Roll_No    	  : 24MCR044
+DEPARTMENT 	  : MCA
+FAVOURITE SUBJECT : JAVA,SQL 
